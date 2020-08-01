@@ -134,7 +134,7 @@ We've selected the following resources to give you a peek into the vast array of
 1. [Godot's Introduction to Math for Game Developers](//docs.godotengine.org/en/3.1/tutorials/math/vector_math.html) will give you some insights into the kind of maths you will use often in your games, starting with vectors. If you're allergic to mathematics, you should still give it a read! The approach is different from the way you probably learned at school.
    [Omitted long matching line]
 
-The next part in this series, [Learn to Make Games with Godot: Developer Edition]({{< ref "tutorial/getting-started/learn-to/code/index.md" >}}), explores advanced resources for more experienced developers who want to go one step further, or perhaps go from being hobbyists to becoming professionals.
+The next part in this series, [Learn to Make Games with Godot: Developer Edition]({{< ref "tutorial/godot/learning-paths/developer/index.md" >}}), explores advanced resources for more experienced developers who want to go one step further, or perhaps go from being hobbyists to becoming professionals.
 
 ## Contributing to this document
 
